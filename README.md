@@ -17,8 +17,8 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./algorithms/0020%20-%20Valid%20Parantheses.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./algorithms/0021%20-%20Merge%20Two%20Sorted%20Lists.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./algorithms/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array.java)|Easy|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./algorithms/0027%20-%20Remove%20Element.java)|Easy
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Java](./algorithms/0028%20-%20Implement%20strStr().java)|Easy
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./algorithms/0027%20-%20Remove%20Element.java)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Java](./algorithms/0028%20-%20Implement%20strStr().java)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./algorithms/0035%20-%20Search%20Insert%20Position.java)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [Java](./algorithms/0058%20-%20Length%20of%20Last%20Word.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [Java](./algorithms/0066%20-%20Plus%20One.java)|Easy|
