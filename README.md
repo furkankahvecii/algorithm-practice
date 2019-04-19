@@ -34,6 +34,7 @@ LeetCode
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./algorithms/0202%20-%20Happy%20Number.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./algorithms/0217%20-%20Contains%20Duplicate.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./algorithms/0231%20-%20Power%20of%20Two.java)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./algorithms/0242%20-%20Valid%20Anagram.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Java](./algorithms/0258%20-%20Add%20Digits.java)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/0326%20-%20Power%20of%20Three.java)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./algorithms/0342%20-%20Power%20of%20Four.java)|Easy|
