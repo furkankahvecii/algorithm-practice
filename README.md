@@ -36,9 +36,11 @@ LeetCode
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./algorithms/0231%20-%20Power%20of%20Two.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./algorithms/0242%20-%20Valid%20Anagram.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Java](./algorithms/0258%20-%20Add%20Digits.java)|Easy|
+|290|[Word Pattern](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./algorithms/0290%20-%20Word%20Pattern.java)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/0326%20-%20Power%20of%20Three.java)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./algorithms/0342%20-%20Power%20of%20Four.java)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./algorithms/0344%20-%20Reverse%20String.java)|Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./algorithms/0371%20-%20Sum%20of%20Two%20Integers.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./algorithms/0412%20-%20Fizz%20Buzz.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
 
