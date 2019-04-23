@@ -21,6 +21,7 @@ LeetCode
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Java](./algorithms/0034%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./algorithms/0035%20-%20Search%20Insert%20Position.java)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Java](./algorithms/0036%20-%20Valid%20Sudoku.java)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Java](./algorithms/0053%20-%20%20Maximum%20Subarray.java)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [Java](./algorithms/0058%20-%20Length%20of%20Last%20Word.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [Java](./algorithms/0066%20-%20Plus%20One.java)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./algorithms/0069%20-%20Sqrt(x).java)|Easy|
@@ -44,6 +45,7 @@ LeetCode
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./algorithms/0412%20-%20Fizz%20Buzz.java)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./algorithms/0476%20-%20Number%20Complement.java)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./algorithms/0500%20-%20%20Keyboard%20Row.java)|Easy|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./algorithms/0509%20-%20%20Fibonacci%20Number.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
 
 
