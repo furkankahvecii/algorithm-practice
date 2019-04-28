@@ -48,7 +48,9 @@ LeetCode
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./algorithms/0509%20-%20%20Fibonacci%20Number.java)|Easy|
 |709|[Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./algorithms/0709%20-%20Lower%20Case.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java](./algorithms/0804%20-%20Unique%20Morse%20Code%20Words.java)|Easy|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Java](./algorithms/0912%20-%20Sort%20an%20Array.java)|Medium|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./algorithms/0961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
 
 
