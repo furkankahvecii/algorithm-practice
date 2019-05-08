@@ -37,28 +37,25 @@ LeetCode
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./algorithms/0231%20-%20Power%20of%20Two.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./algorithms/0242%20-%20Valid%20Anagram.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Java](./algorithms/0258%20-%20Add%20Digits.java)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)| [Java](./algorithms/0268%20-%20Missing%20Number.java)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./algorithms/0283%20-%20Move%20Zeroes.java)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./algorithms/0290%20-%20Word%20Pattern.java)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/0326%20-%20Power%20of%20Three.java)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./algorithms/0342%20-%20Power%20of%20Four.java)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./algorithms/0344%20-%20Reverse%20String.java)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./algorithms/0371%20-%20Sum%20of%20Two%20Integers.java)|Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./algorithms/0389%20-%20Find%20the%20Difference.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./algorithms/0412%20-%20Fizz%20Buzz.java)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./algorithms/0476%20-%20Number%20Complement.java)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./algorithms/0500%20-%20%20Keyboard%20Row.java)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./algorithms/0509%20-%20%20Fibonacci%20Number.java)|Easy|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./algorithms/0561%20-%20Array%20Partition%20I.java)|Easy|
 |709|[Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./algorithms/0709%20-%20Lower%20Case.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./algorithms/0771%20-%20Jewels%20and%20Stones.java)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java](./algorithms/0804%20-%20Unique%20Morse%20Code%20Words.java)|Easy|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Java](./algorithms/0912%20-%20Sort%20an%20Array.java)|Medium|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](./algorithms/0925%20-%20Long%20Pressed%20Name.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./algorithms/0961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
-
-
-
-
-
-
-
-
 
