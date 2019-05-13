@@ -48,14 +48,18 @@ LeetCode
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./algorithms/0412%20-%20Fizz%20Buzz.java)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./algorithms/0476%20-%20Number%20Complement.java)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./algorithms/0500%20-%20%20Keyboard%20Row.java)|Easy|
+|504|[Base 7](https://leetcode.com/problems/base-7/) | [Java](./algorithms/0504%20-%20Base%207.java)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./algorithms/0509%20-%20%20Fibonacci%20Number.java)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./algorithms/0561%20-%20Array%20Partition%20I.java)|Easy|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./algorithms/0595%20-%20Big%20Countries.java)|Easy|
 |709|[Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./algorithms/0709%20-%20Lower%20Case.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./algorithms/0771%20-%20Jewels%20and%20Stones.java)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java](./algorithms/0804%20-%20Unique%20Morse%20Code%20Words.java)|Easy|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Java](./algorithms/0912%20-%20Sort%20an%20Array.java)|Medium|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](./algorithms/0925%20-%20Long%20Pressed%20Name.java)|Easy|
+|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Java](./algorithms/0944%20-%20Delete%20Columns%20to%20Make%20Sorted.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./algorithms/0961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
+
 
