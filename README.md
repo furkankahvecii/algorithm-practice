@@ -46,6 +46,7 @@ LeetCode
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./algorithms/0371%20-%20Sum%20of%20Two%20Integers.java)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./algorithms/0389%20-%20Find%20the%20Difference.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./algorithms/0412%20-%20Fizz%20Buzz.java)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](./algorithms/0461%20-%20Hamming%20Distance.java)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./algorithms/0476%20-%20Number%20Complement.java)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./algorithms/0500%20-%20%20Keyboard%20Row.java)|Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7/) | [Java](./algorithms/0504%20-%20Base%207.java)|Easy|
@@ -56,12 +57,15 @@ LeetCode
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./algorithms/0771%20-%20Jewels%20and%20Stones.java)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java](./algorithms/0804%20-%20Unique%20Morse%20Code%20Words.java)|Easy|
+|821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Java](./algorithms/0821%20-%20Shortest%20Distance%20to%20a%20Character.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](./algorithms/0832%20-%20Flipping%20an%20Image.java)|Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](./algorithms/0905%20-%20Sort%20Array%20By%20Parity.java)|Easy|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Java](./algorithms/0912%20-%20Sort%20an%20Array.java)|Medium|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](./algorithms/0925%20-%20Long%20Pressed%20Name.java)|Easy|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Java](./algorithms/0929%20-%20Unique%20Email%20Addresses.java)|Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Java](./algorithms/0944%20-%20Delete%20Columns%20to%20Make%20Sorted.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./algorithms/0961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Java](./algorithms/1009%20-%20Complement%20of%20Base%2010%20Integer.java)|Easy|
 
 
