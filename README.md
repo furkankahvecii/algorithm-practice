@@ -59,6 +59,7 @@ LeetCode
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java](./algorithms/0804%20-%20Unique%20Morse%20Code%20Words.java)|Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Java](./algorithms/0821%20-%20Shortest%20Distance%20to%20a%20Character.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](./algorithms/0832%20-%20Flipping%20an%20Image.java)|Easy|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Java](./algorithms/0852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.java)|Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Java](./algorithms/0867%20-%20Transpose%20Matrix.java)|Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](./algorithms/0905%20-%20Sort%20Array%20By%20Parity.java)|Easy|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Java](./algorithms/0912%20-%20Sort%20an%20Array.java)|Medium|
@@ -68,3 +69,4 @@ LeetCode
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./algorithms/0961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Java](./algorithms/1009%20-%20Complement%20of%20Base%2010%20Integer.java)|Easy|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/) | [Java](./algorithms/1051%20-%20Height%20Checker.java)|Easy|
