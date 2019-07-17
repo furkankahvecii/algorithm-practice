@@ -51,12 +51,14 @@ LeetCode
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./algorithms/0500%20-%20%20Keyboard%20Row.java)|Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7/) | [Java](./algorithms/0504%20-%20Base%207.java)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./algorithms/0509%20-%20%20Fibonacci%20Number.java)|Easy|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./algorithms/0567%20-%20Permutation%20in%20String.java)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./algorithms/0561%20-%20Array%20Partition%20I.java)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./algorithms/0595%20-%20Big%20Countries.java)|Easy|
 |709|[Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./algorithms/0709%20-%20Lower%20Case.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./algorithms/0771%20-%20Jewels%20and%20Stones.java)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java](./algorithms/0804%20-%20Unique%20Morse%20Code%20Words.java)|Easy|
+|811|[Subdomain Visit Count(https://leetcode.com/problems/subdomain-visit-count/) | [Java](./algorithms/0811%20-%20Subdomain%20Visit%20Count.java)|Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Java](./algorithms/0821%20-%20Shortest%20Distance%20to%20a%20Character.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](./algorithms/0832%20-%20Flipping%20an%20Image.java)|Easy|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Java](./algorithms/0852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.java)|Easy|
@@ -69,4 +71,6 @@ LeetCode
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./algorithms/0961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Java](./algorithms/1009%20-%20Complement%20of%20Base%2010%20Integer.java)|Easy|
+|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./algorithms/1021%20-%20Remove%20Outermost%20Parentheses.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | [Java](./algorithms/1051%20-%20Height%20Checker.java)|Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./algorithms/1108%20-%20Defanging%20an%20IP%20Address.java)|Easy|
