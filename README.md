@@ -58,7 +58,7 @@ LeetCode
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./algorithms/0771%20-%20Jewels%20and%20Stones.java)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java](./algorithms/0804%20-%20Unique%20Morse%20Code%20Words.java)|Easy|
-|811|[Subdomain Visit Count(https://leetcode.com/problems/subdomain-visit-count/) | [Java](./algorithms/0811%20-%20Subdomain%20Visit%20Count.java)|Easy|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [Java](./algorithms/0811%20-%20Subdomain%20Visit%20Count.java)|Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Java](./algorithms/0821%20-%20Shortest%20Distance%20to%20a%20Character.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](./algorithms/0832%20-%20Flipping%20an%20Image.java)|Easy|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Java](./algorithms/0852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.java)|Easy|
