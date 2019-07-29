@@ -54,6 +54,7 @@ LeetCode
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./algorithms/0567%20-%20Permutation%20in%20String.java)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./algorithms/0561%20-%20Array%20Partition%20I.java)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./algorithms/0595%20-%20Big%20Countries.java)|Easy|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](./algorithms/0620%20-%20Not%20Boring%20Movies.java)|Easy|
 |709|[Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./algorithms/0709%20-%20Lower%20Case.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./algorithms/0771%20-%20Jewels%20and%20Stones.java)|Easy|
