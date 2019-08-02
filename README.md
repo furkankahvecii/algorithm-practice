@@ -34,15 +34,18 @@ LeetCode
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Java](./algorithms/0171%20-%20Excel%20Sheet%20Column%20Number.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./algorithms/0202%20-%20Happy%20Number.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./algorithms/0217%20-%20Contains%20Duplicate.java)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](./algorithms/0219%20-%20Contains%20Duplicate%20II.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./algorithms/0231%20-%20Power%20of%20Two.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./algorithms/0242%20-%20Valid%20Anagram.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Java](./algorithms/0258%20-%20Add%20Digits.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)| [Java](./algorithms/0268%20-%20Missing%20Number.java)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./algorithms/0283%20-%20Move%20Zeroes.java)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./algorithms/0290%20-%20Word%20Pattern.java)|Easy|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [Java](./algorithms/0303%20-%20Range%20Sum%20Query%20-%20Immutable.java)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/0326%20-%20Power%20of%20Three.java)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./algorithms/0342%20-%20Power%20of%20Four.java)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./algorithms/0344%20-%20Reverse%20String.java)|Easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Java](./algorithms/0349%20-%20Intersection%20of%20Two%20Arrays.java)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./algorithms/0371%20-%20Sum%20of%20Two%20Integers.java)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./algorithms/0389%20-%20Find%20the%20Difference.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./algorithms/0412%20-%20Fizz%20Buzz.java)|Easy|
@@ -51,9 +54,13 @@ LeetCode
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./algorithms/0500%20-%20%20Keyboard%20Row.java)|Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7/) | [Java](./algorithms/0504%20-%20Base%207.java)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./algorithms/0509%20-%20%20Fibonacci%20Number.java)|Easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)| [Java](./algorithms/0520%20-%20Detect%20Capital.java)|Easy|
+|541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)| [Java](./algorithms/0541%20-%20Reverse%20String%20II.java)|Easy|
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [Java](./algorithms/0551%20-%20Student%20Attendance%20Record%20I.java)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./algorithms/0567%20-%20Permutation%20in%20String.java)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./algorithms/0561%20-%20Array%20Partition%20I.java)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./algorithms/0595%20-%20Big%20Countries.java)|Easy|
+|596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)| [MsSQL](./algorithms/0596%20-%20Classes%20More%20Than%205%20Students.java)|Easy|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](./algorithms/0620%20-%20Not%20Boring%20Movies.java)|Easy|
 |709|[Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./algorithms/0709%20-%20Lower%20Case.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
@@ -73,5 +80,6 @@ LeetCode
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Java](./algorithms/1009%20-%20Complement%20of%20Base%2010%20Integer.java)|Easy|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./algorithms/1021%20-%20Remove%20Outermost%20Parentheses.java)|Easy|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)| [Java](./algorithms/1025%20-%20Divisor%20Game.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | [Java](./algorithms/1051%20-%20Height%20Checker.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./algorithms/1108%20-%20Defanging%20an%20IP%20Address.java)|Easy|
