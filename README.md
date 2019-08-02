@@ -9,9 +9,9 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./algorithms/0001%20-%20Two%20Sum.java)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./algorithms/0002%20-%20Add%20Two%20Numbers.java)|Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](.algorithms/0007%20-%20Reverse%20Integer.java)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./algorithms/0007%20-%20Reverse%20Integer.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./algorithms/0009%20-%20Palindrome%20Number.java)|Easy|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](.algorithms/0013%20-%20Roman%20to%20Integer.java)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./algorithms/0013%20-%20Roman%20to%20Integer.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Java](./algorithms/0014%20-%20Longest%20Common%20Prefix.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./algorithms/0020%20-%20Valid%20Parantheses.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./algorithms/0021%20-%20Merge%20Two%20Sorted%20Lists.java)|Easy|
