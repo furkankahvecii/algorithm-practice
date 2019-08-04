@@ -57,6 +57,7 @@ LeetCode
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)| [Java](./algorithms/0520%20-%20Detect%20Capital.java)|Easy|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)| [Java](./algorithms/0541%20-%20Reverse%20String%20II.java)|Easy|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [Java](./algorithms/0551%20-%20Student%20Attendance%20Record%20I.java)|Easy|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](./algorithms/0557%20-%20Reverse%20Words%20in%20a%20String%20III.java)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./algorithms/0567%20-%20Permutation%20in%20String.java)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./algorithms/0561%20-%20Array%20Partition%20I.java)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./algorithms/0595%20-%20Big%20Countries.java)|Easy|
@@ -64,7 +65,9 @@ LeetCode
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](./algorithms/0620%20-%20Not%20Boring%20Movies.java)|Easy|
 |709|[Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./algorithms/0709%20-%20Lower%20Case.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
+|762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Java](./algorithms/0762%20-%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./algorithms/0771%20-%20Jewels%20and%20Stones.java)|Easy|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Java](./algorithms/0796%20-%20Rotate%20String.java)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java](./algorithms/0804%20-%20Unique%20Morse%20Code%20Words.java)|Easy|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [Java](./algorithms/0811%20-%20Subdomain%20Visit%20Count.java)|Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Java](./algorithms/0821%20-%20Shortest%20Distance%20to%20a%20Character.java)|Easy|
