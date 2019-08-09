@@ -32,6 +32,7 @@ LeetCode
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Java](./algorithms/0151%20-%20Reverse%20Words%20in%20a%20String.java)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](./algorithms/0167%20-%20Two%20Sum%20II.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Java](./algorithms/0171%20-%20Excel%20Sheet%20Column%20Number.java)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./algorithms/0191%20-%20Number%20of%201%20Bits.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./algorithms/0202%20-%20Happy%20Number.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./algorithms/0217%20-%20Contains%20Duplicate.java)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](./algorithms/0219%20-%20Contains%20Duplicate%20II.java)|Easy|
