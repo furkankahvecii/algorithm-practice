@@ -1,4 +1,4 @@
-LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci </a> )
+LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a> )
 ========
 
 ### LeetCode Algorithm
