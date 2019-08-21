@@ -82,8 +82,11 @@ LeetCode
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Java](./algorithms/0944%20-%20Delete%20Columns%20to%20Make%20Sorted.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./algorithms/0961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Java](./algorithms/1002%20-%20Find%20Common%20Characters.java)|Easy|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Java](./algorithms/1009%20-%20Complement%20of%20Base%2010%20Integer.java)|Easy|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./algorithms/1021%20-%20Remove%20Outermost%20Parentheses.java)|Easy|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)| [Java](./algorithms/1025%20-%20Divisor%20Game.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | [Java](./algorithms/1051%20-%20Height%20Checker.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./algorithms/1108%20-%20Defanging%20an%20IP%20Address.java)|Easy|
+
+
