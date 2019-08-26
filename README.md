@@ -1,8 +1,7 @@
-LeetCode
+LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 ========
 
 ### LeetCode Algorithm
-
 
 
 | # | Title | Solution | Difficulty |
@@ -64,6 +63,7 @@ LeetCode
 |595|[Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./algorithms/0595%20-%20Big%20Countries.java)|Easy|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)| [MsSQL](./algorithms/0596%20-%20Classes%20More%20Than%205%20Students.java)|Easy|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](./algorithms/0620%20-%20Not%20Boring%20Movies.java)|Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./algorithms/0704%20-%20Binary%20Search.java)|Easy|
 |709|[Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./algorithms/0709%20-%20Lower%20Case.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./algorithms/0728%20-%20Self%20Dividing%20Numbers.java)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Java](./algorithms/0762%20-%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.java)|Easy|
@@ -88,5 +88,6 @@ LeetCode
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)| [Java](./algorithms/1025%20-%20Divisor%20Game.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | [Java](./algorithms/1051%20-%20Height%20Checker.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./algorithms/1108%20-%20Defanging%20an%20IP%20Address.java)|Easy|
+|1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [Java](./algorithms/1154%20-%20Day%20of%20the%20Year.java)|Easy|
 
 
