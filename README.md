@@ -33,6 +33,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Java](./algorithms/0171%20-%20Excel%20Sheet%20Column%20Number.java)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./algorithms/0191%20-%20Number%20of%201%20Bits.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./algorithms/0202%20-%20Happy%20Number.java)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Java](./algorithms/0205%20-%20Isomorphic%20Strings.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./algorithms/0217%20-%20Contains%20Duplicate.java)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](./algorithms/0219%20-%20Contains%20Duplicate%20II.java)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [Java](./algorithms/0225%20-%20Implement%20Stack%20using%20Queues.java)|Easy|
@@ -92,5 +93,6 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | [Java](./algorithms/1051%20-%20Height%20Checker.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./algorithms/1108%20-%20Defanging%20an%20IP%20Address.java)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [Java](./algorithms/1154%20-%20Day%20of%20the%20Year.java)|Easy|
+|1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](./algorithms/1160%20-%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.java)|Easy|
 
 
