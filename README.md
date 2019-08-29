@@ -91,8 +91,10 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./algorithms/1021%20-%20Remove%20Outermost%20Parentheses.java)|Easy|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)| [Java](./algorithms/1025%20-%20Divisor%20Game.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | [Java](./algorithms/1051%20-%20Height%20Checker.java)|Easy|
+|1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Java](./algorithms/1078%20-%20Occurrences%20After%20Bigram.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./algorithms/1108%20-%20Defanging%20an%20IP%20Address.java)|Easy|
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Java](./algorithms/1137%20-%20N-th%20Tribonacci%20Number.java)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [Java](./algorithms/1154%20-%20Day%20of%20the%20Year.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](./algorithms/1160%20-%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.java)|Easy|
-
+|1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Java](./algorithms/1170%20-%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.java)|Easy|
 
