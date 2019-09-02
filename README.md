@@ -40,11 +40,13 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./algorithms/0231%20-%20Power%20of%20Two.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](./algorithms/0242%20-%20Valid%20Anagram.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Java](./algorithms/0258%20-%20Add%20Digits.java)|Easy|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [Java](./algorithms/0260%20-%20Single%20Number%20III.java)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [Java](./algorithms/0263%20-%20Ugly%20Number.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)| [Java](./algorithms/0268%20-%20Missing%20Number.java)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./algorithms/0283%20-%20Move%20Zeroes.java)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./algorithms/0290%20-%20Word%20Pattern.java)|Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [Java](./algorithms/0303%20-%20Range%20Sum%20Query%20-%20Immutable.java)|Easy|
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)| [Java](./algorithms/0318%20-%20Maximum%20Product%20of%20Word%20Lengths.java)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/0326%20-%20Power%20of%20Three.java)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./algorithms/0342%20-%20Power%20of%20Four.java)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./algorithms/0344%20-%20Reverse%20String.java)|Easy|
