@@ -86,6 +86,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](./algorithms/0925%20-%20Long%20Pressed%20Name.java)|Easy|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Java](./algorithms/0929%20-%20Unique%20Email%20Addresses.java)|Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Java](./algorithms/0944%20-%20Delete%20Columns%20to%20Make%20Sorted.java)|Easy|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [Java](./algorithms/0946%20-%20Validate%20Stack%20Sequences.java)|Medium|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./algorithms/0961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/0977%20-%20Squares%20of%20a%20Sorted%20Array.java)|Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Java](./algorithms/1002%20-%20Find%20Common%20Characters.java)|Easy|
@@ -99,4 +100,3 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [Java](./algorithms/1154%20-%20Day%20of%20the%20Year.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Java](./algorithms/1160%20-%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.java)|Easy|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Java](./algorithms/1170%20-%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.java)|Easy|
-
