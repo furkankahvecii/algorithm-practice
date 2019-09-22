@@ -77,6 +77,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/) | [Java](./algorithms/0796%20-%20Rotate%20String.java)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java](./algorithms/0804%20-%20Unique%20Morse%20Code%20Words.java)|Easy|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [Java](./algorithms/0811%20-%20Subdomain%20Visit%20Count.java)|Easy|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](./algorithms/0819%20-%20Most%20Common%20Word.java)|Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Java](./algorithms/0821%20-%20Shortest%20Distance%20to%20a%20Character.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](./algorithms/0832%20-%20Flipping%20an%20Image.java)|Easy|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Java](./algorithms/0852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.java)|Easy|
