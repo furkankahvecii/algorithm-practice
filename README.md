@@ -8,6 +8,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./algorithms/0001%20-%20Two%20Sum.java)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./algorithms/0002%20-%20Add%20Two%20Numbers.java)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./algorithms/0003%20-%20Longest%20Substring%20Without%20Repeating%20Characters.java)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./algorithms/0007%20-%20Reverse%20Integer.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./algorithms/0009%20-%20Palindrome%20Number.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./algorithms/0013%20-%20Roman%20to%20Integer.java)|Easy|
