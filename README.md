@@ -32,6 +32,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Java](./algorithms/0151%20-%20Reverse%20Words%20in%20a%20String.java)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](./algorithms/0167%20-%20Two%20Sum%20II.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Java](./algorithms/0171%20-%20Excel%20Sheet%20Column%20Number.java)|Easy|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [MySQL](./algorithms/0182%20-%20Duplicate%20Emails.java)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./algorithms/0191%20-%20Number%20of%201%20Bits.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./algorithms/0202%20-%20Happy%20Number.java)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Java](./algorithms/0205%20-%20Isomorphic%20Strings.java)|Easy|
@@ -97,6 +98,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)| [Java](./algorithms/1025%20-%20Divisor%20Game.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | [Java](./algorithms/1051%20-%20Height%20Checker.java)|Easy|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Java](./algorithms/1078%20-%20Occurrences%20After%20Bigram.java)|Easy|
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](./algorithms/1089%20-%20Duplicate%20Zeros.java)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./algorithms/1108%20-%20Defanging%20an%20IP%20Address.java)|Easy|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](./algorithms/1122%20-%20Relative%20Sort%20Array.java)|Easy|
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Java](./algorithms/1128%20-%20Number%20of%20Equivalent%20Domino%20Pairs.java)|Easy|
