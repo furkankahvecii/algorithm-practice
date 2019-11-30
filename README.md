@@ -13,6 +13,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./algorithms/0009%20-%20Palindrome%20Number.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./algorithms/0013%20-%20Roman%20to%20Integer.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Java](./algorithms/0014%20-%20Longest%20Common%20Prefix.java)|Easy|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](./algorithms/0017%20-%20Letter%20Combinations%20of%20a%20Phone%20Number.java)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./algorithms/0020%20-%20Valid%20Parantheses.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./algorithms/0021%20-%20Merge%20Two%20Sorted%20Lists.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./algorithms/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array.java)|Easy|
@@ -31,9 +32,11 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [Java](./algorithms/0137%20-%20Single%20Number%20II.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Java](./algorithms/0151%20-%20Reverse%20Words%20in%20a%20String.java)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](./algorithms/0167%20-%20Two%20Sum%20II.java)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)| [Java](./algorithms/0169%20-%20Majority%20Element.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Java](./algorithms/0171%20-%20Excel%20Sheet%20Column%20Number.java)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [MySQL](./algorithms/0182%20-%20Duplicate%20Emails.java)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./algorithms/0191%20-%20Number%20of%201%20Bits.java)|Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [MySQL](./0196%20-%20Delete%20Duplicate%20Emails.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [Java](./algorithms/0202%20-%20Happy%20Number.java)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Java](./algorithms/0205%20-%20Isomorphic%20Strings.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./algorithms/0217%20-%20Contains%20Duplicate.java)|Easy|
