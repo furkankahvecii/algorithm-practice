@@ -115,6 +115,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./algorithms/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](./algorithms/1295%20-%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Java](./algorithms/1299%20-%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)|Easy|
+|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Java](./algorithms/1302%20-%20Deepest%20Leaves%20Sum.java)|Medium|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Java](./algorithms/1304%20-%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.java)|Easy|
 
 
