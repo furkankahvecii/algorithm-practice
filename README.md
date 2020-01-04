@@ -31,6 +31,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [Java](./algorithms/0136%20-%20Single%20Number.java)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [Java](./algorithms/0137%20-%20Single%20Number%20II.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Java](./algorithms/0151%20-%20Reverse%20Words%20in%20a%20String.java)|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./algorithms/0155%20-%20Min%20Stack.java)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](./algorithms/0167%20-%20Two%20Sum%20II.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [Java](./algorithms/0169%20-%20Majority%20Element.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [Java](./algorithms/0171%20-%20Excel%20Sheet%20Column%20Number.java)|Easy|
@@ -111,5 +112,6 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Java](./algorithms/1170%20-%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.java)|Easy|
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [MySQL](./algorithms/1179%20-%20Reformat%20Department%20Table.java)|Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [Java](./algorithms/1185%20-%20Day%20of%20the%20Week.java)|Easy|
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Java](./algorithms/1304%20-%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.java)|Easy|
 
 
