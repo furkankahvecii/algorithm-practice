@@ -112,6 +112,7 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Java](./algorithms/1170%20-%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.java)|Easy|
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [MySQL](./algorithms/1179%20-%20Reformat%20Department%20Table.java)|Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [Java](./algorithms/1185%20-%20Day%20of%20the%20Week.java)|Easy|
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](./algorithms/1295%20-%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Java](./algorithms/1299%20-%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)|Easy|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Java](./algorithms/1304%20-%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.java)|Easy|
 
