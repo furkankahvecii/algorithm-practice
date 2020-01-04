@@ -3,7 +3,7 @@
  */
 
 
-class MajorityElement {
+class Solution {
 	
 	public  static int[] replaceElements(int[] arr) {
 		int max = Integer.MIN_VALUE;
