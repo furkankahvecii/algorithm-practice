@@ -120,5 +120,6 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Java](./algorithms/1299%20-%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)|Easy|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Java](./algorithms/1302%20-%20Deepest%20Leaves%20Sum.java)|Medium|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Java](./algorithms/1304%20-%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.java)|Easy|
+|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Java](./algorithms/1346%20-%20Check%20If%20N%20and%20Its%20Double%20Exist.java)|Easy|
 
 
