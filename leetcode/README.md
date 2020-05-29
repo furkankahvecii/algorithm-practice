@@ -121,5 +121,8 @@ LeetCode (<a href="https://leetcode.com/furkankahvecii/">Furkan Kahveci</a>)
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Java](./algorithms/1302%20-%20Deepest%20Leaves%20Sum.java)|Medium|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Java](./algorithms/1304%20-%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.java)|Easy|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Java](./algorithms/1346%20-%20Check%20If%20N%20and%20Its%20Double%20Exist.java)|Easy|
-
-
+|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Java](./algorithms/1351%20-%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java)|Easy|
+|1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [Java](./algorithms/1408%20-%20String%20Matching%20in%20an%20Array.java)|Easy|
+|1441|[Build an Array With Stack Operation](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [Java](./algorithms/1441%20-%20Build%20an%20Array%20With%20Stack%20Operations.java)|Easy|
+|1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Java-PHP](./algorithms/1455%20-%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence%20.java)|Easy|
+ 
