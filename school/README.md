@@ -59,8 +59,46 @@ Tb = 3.7
 
 ---
 
+### At ile minimum adımda hedefe ulaşmak
+
+8 x 8 boyutunda kare bir satranç tahtası göz önüne alındığında, Atın konumu ve bir hedefin konumu verilir. Atın hedef pozisyona ulaşmak için atacağı minimum adımları bulan Java kodunu yazınız.
+
+[Çözüm](chess_knight_min_steps.java)
 
 
+---
+
+### Selection Sort ile Douby Linked List
+
+Seçimli sıralama (selection sort) algoritmasını kullanarak çift yönlü bağlı listeleri sıralayabilen bir fonksiyon yazmanız istenmektedir. İstenilen işlevin yerine getirilebilmesi için gerekli yapı (structure) ve varsa ek fonksiyonların da tanımlı olduğu C kodunu yazınız. 
+
+[Çözüm](selection_sort_doubly_list.cpp)
+
+---
+
+### Dizinin son elemanını sıralamaya dahil etme
+
+N adet elemanı sıralı şekilde içeren bir dizinin sonunda N+1. eleman olarak sıralanmamış bir sayı bulunmaktadır. Bu eleman dizide uygun konuma yerleştirilmek istenmektedir. Örneğin [13, 56, 87, 93, 65] gibi bir dizinin son halinin [13, 56, 65, 87, 93] şeklinde olmalıdır. Bu sorunun çözümüne yönelik, çalışma zamanı maksimum O(n) olacak şekilde bir algoritma tasarlayıp, bu algoritmayı fonksiyon şeklinde içeren bir C kodu yazınız. 
+
+[Çözüm](array_lastvalue_sort.cpp)
+
+---
+
+### Dizideki herhangi iki sayının toplamının hedef sayıyı içermesi
+
+N adet sayı içeren bir dizi verildiğinde bu dizi içerisinde toplamları K olan iki sayı olup olmadığını maksimum O(NlogN) zamanda belirleyen bir algoritma geliştirip Java dilinde kodlayınız.
+
+[Çözüm](two_sum.java)
+
+---
+
+### Rastgele kelime kontrolü
+
+A={a,b,c} kümesinden rastgele kelimeler oluşturulmaktadır.Oluşturulan rastgele kelimelerin uzunlukları uz(K) şeklinde tanımlanmıştır ve K ise üretilen kelimedir.K kelimesi bir karakter dizisi olarak düşünülebilir.Rastgele oluşturulan kelime b ile başlayıp b veya c ile bitiyorsa ve aynı zamanda ardışık en az iki tane a içermiyorsa,AC değişkeninin değeri 1 olacaktır ve diğer durumda ise 0 olacaktır.
+
+[Çözüm](rastgele_kelime_kontrol.java)
+
+---
 
 
 
